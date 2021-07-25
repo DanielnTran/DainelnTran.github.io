@@ -1,14 +1,26 @@
-## Welcome to GitHub Pages
+# Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/DanielnTran/DainelnTran.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 1. Table of content
+1.1 Introduction 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.2 Markdown
 
-### Markdown
+1.3 Working at STEAM for Vietnam 
+
+## To do list:
+- [ ] Writing "Inspirational scientists" Blog
+- [x] Writing "What media talk about us" Blog
+
+
+**The quote of day:**
+> It is not the strongest species that survive 
+> Nor the most inteligent
+> It is the one that is most adaptable to change
+> -Charles Darwin
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+```
 Syntax highlighted code block
 
 # Header 1
@@ -19,19 +31,21 @@ Syntax highlighted code block
 - List
 
 1. Numbered
+  1.1 Sub 1
+  1.2 Sub 2
+    1.2.1 Sub 1.1
+    1.2.2 Sub 1.2
 2. List
+  2.1 Sub list 1
+  2.2 Sub list 2
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+## Working at STEAM for Vietanm 
+![S4V](https://user-images.githubusercontent.com/87927091/126893635-ea7a201a-0d5c-4e17-8707-415b9f175595.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[My first blog's translation](https://docs.google.com/document/d/1dNsBej6ZPaw5Rlf0cKxmZO6YQObJAqgZX41QSIAToqE/edit?usp=sharing)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DanielnTran/DainelnTran.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[My weekly plan](https://docs.google.com/spreadsheets/d/1xBX55AYXOQATirulQzdlKPnxVeS_mcg6mDcMzzW_poI/edit?usp=sharing)
